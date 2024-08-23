@@ -15,6 +15,17 @@
     "website": "ibrahim-test-hide-download"
   },
   "course_title": "ibrahim-test-hide-download",
+  "hide_download": false,
+  "mit-learn-topics": [
+    [
+      "Fine Arts",
+      "Art History"
+    ],
+    [
+      "Business",
+      "Entrepreneurship"
+    ]
+  ],
   "course_description": "**ibrahim-test-hide-download**\n\n***publish*****Publish**",
   "department_numbers": [
     "3"
