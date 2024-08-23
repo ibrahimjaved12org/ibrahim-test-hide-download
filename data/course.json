@@ -16,6 +16,16 @@
   },
   "course_title": "ibrahim-test-hide-download",
   "hide_download": false,
+  "mit-learn-topics": [
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Energy",
+      "Combustion"
+    ]
+  ],
   "course_description": "**ibrahim-test-hide-download**\n\n***publish*****Publish**",
   "department_numbers": [
     "3"
